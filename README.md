@@ -1,1 +1,1 @@
-# EclipDonate
+# DiscordBotDonate
